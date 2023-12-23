@@ -1,0 +1,10 @@
+.search_box{
+    width: 20rem;
+}
+.country_list{
+    width: 20rem;
+}
+.country{
+    background-color: lightblue;
+    cursor: pointer;
+}
